@@ -69,7 +69,7 @@ footer{
 	text-transform: uppercase;
 }
 
-@media screen and (min-device-width: 900px) {
+@media screen and (min-width: 900px) {
 	header, footer{
 		background-color:rgba(0,0,255,.005);
 		padding: 1%;
